@@ -3,7 +3,7 @@ Bukas Game Engine
 
 # Roadmap
 ## Phase 1: Core Systems
-- Entry Points and Logging System
+- Entry Points and Logging System ✅
 - Event System
 - Window and Input Abstraction
 - Rendering backend
